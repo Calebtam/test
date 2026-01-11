@@ -5,7 +5,7 @@ SET(PROJECT_PREFIX rtabmap)
 
 # Catkin doesn't support multiarch library path, 
 # fix to "lib" if not set by user.
-OPTION(MULTI_ARCH "Activate multi-arch lib directory (debian)" OFF)
+OPTION(MULTI_ARCH "Activate multi-arch lib directory (debian)" OFF1)
 IF(NOT MULTI_ARCH AND NOT DEFINED CMAKE_INSTALL_LIBDIR)
    set(CMAKE_INSTALL_LIBDIR "lib")
 ENDIF(NOT MULTI_ARCH AND NOT DEFINED CMAKE_INSTALL_LIBDIR)

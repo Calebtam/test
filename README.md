@@ -1,4 +1,4 @@
-rtabmap
+rtabmap_ros
 =======
 
 [![RTAB-Map Logo](https://raw.githubusercontent.com/introlab/rtabmap/master/guilib/src/images/RTAB-Map100.png)](http://introlab.github.io/rtabmap)
