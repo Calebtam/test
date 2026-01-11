@@ -1,29 +1,20 @@
 rtabmap_ros
-=======
 
 [![RTAB-Map Logo](https://raw.githubusercontent.com/introlab/rtabmap/master/guilib/src/images/RTAB-Map100.png)](http://introlab.github.io/rtabmap)
 
-[![Release][release-image]][releases]
-[![Downloads][downloads-image]][downloads]
-[![License][license-image]][license]
-
-[release-image]: https://img.shields.io/badge/release-0.21.4-green.svg?style=flat
-[releases]: https://github.com/introlab/rtabmap/releases
-
-[downloads-image]: https://img.shields.io/github/downloads/introlab/rtabmap/total?label=downloads
-[downloads]: https://github.com/introlab/rtabmap/releases
-
-[license-image]: https://img.shields.io/badge/license-BSD-green.svg?style=flat
-[license]: https://github.com/introlab/rtabmap/blob/master/LICENSE
+[Release][releases]
+[Downloads][downloads]
+[License][license]
 
 RTAB-Map library and standalone application.
 
- * For more information (e.g., papers, major updates), visit [RTAB-Map's home page](http://introlab.github.io/rtabmap).
- * For installation instructions and examples, visit [RTAB-Map's wiki](https://github.com/introlab/rtabmap/wiki).
+* For more information (e.g., papers, major updates), visit [RTAB-Map&#39;s home page](http://introlab.github.io/rtabmap).
+* For installation instructions and examples, visit [RTAB-Map&#39;s wiki](https://github.com/introlab/rtabmap/wiki).
 
 To use RTAB-Map under ROS, visit the [rtabmap](http://wiki.ros.org/rtabmap) page on the ROS wiki.
 
 ### Acknowledgements
+
 This project is supported by [IntRoLab - Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab](https://introlab.3it.usherbrooke.ca/), Sherbrooke, Québec, Canada.
 
 <a href="https://introlab.3it.usherbrooke.ca/">
@@ -32,7 +23,7 @@ This project is supported by [IntRoLab - Intelligent / Interactive / Integrated 
 
 #### CI Latest
 
-  <table>
+<table>
     <tbody>
         <tr>
            <td>Linux</td>
@@ -46,12 +37,12 @@ This project is supported by [IntRoLab - Intelligent / Interactive / Integrated 
         </tr>
      </tbody>
   </table>
- 
- #### ROS Binaries
- 
+
+#### ROS Binaries
+
  `ros-$ROS_DISTRO-rtabmap`
- 
- <table>
+
+<table>
     <tbody>
         <tr>
            <td rowspan="1">ROS 1</td>
@@ -80,3 +71,10 @@ This project is supported by [IntRoLab - Intelligent / Interactive / Integrated 
         </tr>
     </tbody>
 </table>
+
+[release-image]: https://img.shields.io/badge/release-0.21.4-green.svg?style=flat
+[releases]: https://github.com/introlab/rtabmap/releases
+[downloads-image]: https://img.shields.io/github/downloads/introlab/rtabmap/total?label=downloads
+[downloads]: https://github.com/introlab/rtabmap/releases
+[license-image]: https://img.shields.io/badge/license-BSD-green.svg?style=flat
+[license]: https://github.com/introlab/rtabmap/blob/master/LICENSE
